@@ -1,0 +1,1 @@
+if exist C:\ProgramData\Custom\Intune\DetectionChecks\Invoke-BIOSUpgrade.txt del C:\ProgramData\Custom\Intune\DetectionChecks\Invoke-BIOSUpgrade.txt

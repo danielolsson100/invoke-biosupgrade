@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy bypass -file .\Invoke-BIOSUpgrade.ps1
